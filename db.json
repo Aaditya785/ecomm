@@ -1,17 +1,307 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    },{
-      "id": 2,
-      "title": "hello Aaditya"
-    },{
-      "id": 3,
-      "title": "hello Aashish"
+    "product_handle": "gymshark-studio-leggings-black-ss22",
+    "product": {
+        "id": 6672899047495,
+        "title": "Gymshark Studio 7/8 Leggings - Black",
+        "body_html": "<p><strong>WATCH ME FLOW</strong></p>\n<p><br data-mce-fragment=\"1\">With soft, smooth and stretchy materials for that second skin feel, Studio fits flawlessly into your day. Bright colours and bold designs make sure you never fade into the crowd. And the perfect zero-distraction designs allow you to focus on your form in the studio, and your flow, wherever you go.</p>\n<p> </p>\n<p><br data-mce-fragment=\"1\">- High waisted coverage and support<br data-mce-fragment=\"1\">- Shaped waistband<br data-mce-fragment=\"1\">- 7/8 length <br data-mce-fragment=\"1\">- Bonded seams for zero abrasion <br data-mce-fragment=\"1\">- High stretch fabric for freedom of movement <br data-mce-fragment=\"1\">- Soft, buttery fabric <br data-mce-fragment=\"1\">- Gymshark logo to left hand side below waistband <br data-mce-fragment=\"1\">- 87% Nylon, 13% Elastane <br data-mce-fragment=\"1\">- We've cut down our use of swing tags, so this product comes without one<br data-mce-fragment=\"1\">- Model is 5’3” and wears a size XS<br data-mce-fragment=\"1\">- SKU: B2A9Y-BBBB</p>",
+        "vendor": "Gymshark | Be a visionary.",
+        "product_type": "Womens Leggings",
+        "created_at": "2022-07-04T10:21:08+01:00",
+        "handle": "gymshark-studio-leggings-black-ss22",
+        "updated_at": "2023-03-24T16:06:22+00:00",
+        "published_at": "2022-07-07T13:59:04+01:00",
+        "template_suffix": null,
+        "published_scope": "global",
+        "tags": "07/07/22, all-products, black-leggings, bottoms-leggings, filter-colour: Black, filter-size:l, filter-size:m, filter-size:s, filter-size:xl, filter-size:xs, filter-size:xxl, functional-fitness, high-waisted-leggings, instock:l, instock:m, instock:s, instock:xl, instock:xs, instock:xxl, leggings, outlet, sale-leggings, seamless-leggings, sizeguide:bottom, SS22, studio, tier:1, Womens, yoga",
+        "variants": [
+            {
+                "id": 39707321991239,
+                "product_id": 6672899047495,
+                "title": "Extra Small",
+                "price": "49.00",
+                "sku": "B2A9Y-BBBB-XS",
+                "position": 1,
+                "compare_at_price": "70.00",
+                "fulfillment_service": "manual",
+                "inventory_management": "shopify",
+                "option1": "Extra Small",
+                "option2": null,
+                "option3": null,
+                "created_at": "2022-07-04T10:21:08+01:00",
+                "updated_at": "2023-03-20T11:38:36+00:00",
+                "taxable": true,
+                "barcode": "5063167763268",
+                "grams": 0,
+                "image_id": null,
+                "weight": 0.0,
+                "weight_unit": "kg",
+                "tax_code": "",
+                "requires_shipping": true,
+                "quantity_rule": {
+                    "min": 1,
+                    "max": null,
+                    "increment": 1
+                }
+            },
+            {
+                "id": 39707322024007,
+                "product_id": 6672899047495,
+                "title": "Small",
+                "price": "49.00",
+                "sku": "B2A9Y-BBBB-S",
+                "position": 2,
+                "compare_at_price": "70.00",
+                "fulfillment_service": "manual",
+                "inventory_management": "shopify",
+                "option1": "Small",
+                "option2": null,
+                "option3": null,
+                "created_at": "2022-07-04T10:21:08+01:00",
+                "updated_at": "2023-03-24T16:06:22+00:00",
+                "taxable": true,
+                "barcode": "5063167763190",
+                "grams": 0,
+                "image_id": null,
+                "weight": 0.0,
+                "weight_unit": "kg",
+                "tax_code": "",
+                "requires_shipping": true,
+                "quantity_rule": {
+                    "min": 1,
+                    "max": null,
+                    "increment": 1
+                }
+            },
+            {
+                "id": 39707322089543,
+                "product_id": 6672899047495,
+                "title": "Medium",
+                "price": "49.00",
+                "sku": "B2A9Y-BBBB-M",
+                "position": 3,
+                "compare_at_price": "70.00",
+                "fulfillment_service": "manual",
+                "inventory_management": "shopify",
+                "option1": "Medium",
+                "option2": null,
+                "option3": null,
+                "created_at": "2022-07-04T10:21:08+01:00",
+                "updated_at": "2023-03-24T16:06:21+00:00",
+                "taxable": true,
+                "barcode": "5063167763213",
+                "grams": 0,
+                "image_id": null,
+                "weight": 0.0,
+                "weight_unit": "kg",
+                "tax_code": "",
+                "requires_shipping": true,
+                "quantity_rule": {
+                    "min": 1,
+                    "max": null,
+                    "increment": 1
+                }
+            },
+            {
+                "id": 39707322155079,
+                "product_id": 6672899047495,
+                "title": "Large",
+                "price": "49.00",
+                "sku": "B2A9Y-BBBB-L",
+                "position": 4,
+                "compare_at_price": "70.00",
+                "fulfillment_service": "manual",
+                "inventory_management": "shopify",
+                "option1": "Large",
+                "option2": null,
+                "option3": null,
+                "created_at": "2022-07-04T10:21:08+01:00",
+                "updated_at": "2023-03-20T09:35:15+00:00",
+                "taxable": true,
+                "barcode": "5063167763220",
+                "grams": 0,
+                "image_id": null,
+                "weight": 0.0,
+                "weight_unit": "kg",
+                "tax_code": "",
+                "requires_shipping": true,
+                "quantity_rule": {
+                    "min": 1,
+                    "max": null,
+                    "increment": 1
+                }
+            },
+            {
+                "id": 39707322220615,
+                "product_id": 6672899047495,
+                "title": "Extra Large",
+                "price": "49.00",
+                "sku": "B2A9Y-BBBB-XL",
+                "position": 5,
+                "compare_at_price": "70.00",
+                "fulfillment_service": "manual",
+                "inventory_management": "shopify",
+                "option1": "Extra Large",
+                "option2": null,
+                "option3": null,
+                "created_at": "2022-07-04T10:21:09+01:00",
+                "updated_at": "2023-03-24T16:06:21+00:00",
+                "taxable": true,
+                "barcode": "5063167763206",
+                "grams": 0,
+                "image_id": null,
+                "weight": 0.0,
+                "weight_unit": "kg",
+                "tax_code": "",
+                "requires_shipping": true,
+                "quantity_rule": {
+                    "min": 1,
+                    "max": null,
+                    "increment": 1
+                }
+            },
+            {
+                "id": 39707322253383,
+                "product_id": 6672899047495,
+                "title": "Extra Extra Large",
+                "price": "49.00",
+                "sku": "B2A9Y-BBBB-XXL",
+                "position": 6,
+                "compare_at_price": "70.00",
+                "fulfillment_service": "manual",
+                "inventory_management": "shopify",
+                "option1": "Extra Extra Large",
+                "option2": null,
+                "option3": null,
+                "created_at": "2022-07-04T10:21:09+01:00",
+                "updated_at": "2023-03-21T20:12:10+00:00",
+                "taxable": true,
+                "barcode": "5063167764753",
+                "grams": 0,
+                "image_id": null,
+                "weight": 0.0,
+                "weight_unit": "kg",
+                "tax_code": "",
+                "requires_shipping": true,
+                "quantity_rule": {
+                    "min": 1,
+                    "max": null,
+                    "increment": 1
+                }
+            }
+        ],
+        "options": [
+            {
+                "id": 8578634383431,
+                "product_id": 6672899047495,
+                "name": "Size",
+                "position": 1,
+                "values": [
+                    "Extra Small",
+                    "Small",
+                    "Medium",
+                    "Large",
+                    "Extra Large",
+                    "Extra Extra Large"
+                ]
+            }
+        ],
+        "images": [
+            {
+                "id": 28788631240775,
+                "product_id": 6672899047495,
+                "position": 1,
+                "created_at": "2022-07-04T10:21:09+01:00",
+                "updated_at": "2022-07-04T10:21:10+01:00",
+                "alt": null,
+                "width": 1692,
+                "height": 2018,
+                "src": "https://cdn.shopify.com/s/files/1/1367/5207/products/StudioLeggingsBlack-B2A9Y-BBBB.A.jpg?v=1656926470",
+                "variant_ids": []
+            },
+            {
+                "id": 28788631732295,
+                "product_id": 6672899047495,
+                "position": 2,
+                "created_at": "2022-07-04T10:21:09+01:00",
+                "updated_at": "2022-07-04T10:21:12+01:00",
+                "alt": null,
+                "width": 1692,
+                "height": 2018,
+                "src": "https://cdn.shopify.com/s/files/1/1367/5207/products/StudioLeggingsBlack-B2A9Y-BBBB.B.jpg?v=1656926472",
+                "variant_ids": []
+            },
+            {
+                "id": 28788631339079,
+                "product_id": 6672899047495,
+                "position": 3,
+                "created_at": "2022-07-04T10:21:09+01:00",
+                "updated_at": "2022-07-04T10:21:11+01:00",
+                "alt": null,
+                "width": 1692,
+                "height": 2018,
+                "src": "https://cdn.shopify.com/s/files/1/1367/5207/products/StudioLeggingsBlack-B2A9Y-BBBB.C.jpg?v=1656926471",
+                "variant_ids": []
+            },
+            {
+                "id": 28788631437383,
+                "product_id": 6672899047495,
+                "position": 4,
+                "created_at": "2022-07-04T10:21:09+01:00",
+                "updated_at": "2022-07-04T10:21:11+01:00",
+                "alt": null,
+                "width": 1692,
+                "height": 2018,
+                "src": "https://cdn.shopify.com/s/files/1/1367/5207/products/StudioLeggingsBlack-B2A9Y-BBBB.A1.jpg?v=1656926471",
+                "variant_ids": []
+            },
+            {
+                "id": 28788631535687,
+                "product_id": 6672899047495,
+                "position": 5,
+                "created_at": "2022-07-04T10:21:09+01:00",
+                "updated_at": "2022-07-04T10:21:11+01:00",
+                "alt": null,
+                "width": 1692,
+                "height": 2018,
+                "src": "https://cdn.shopify.com/s/files/1/1367/5207/products/StudioLeggingsBlack-B2A9Y-BBBB.D1.jpg?v=1656926471",
+                "variant_ids": []
+            },
+            {
+                "id": 28788631601223,
+                "product_id": 6672899047495,
+                "position": 6,
+                "created_at": "2022-07-04T10:21:09+01:00",
+                "updated_at": "2022-07-04T10:21:11+01:00",
+                "alt": null,
+                "width": 1692,
+                "height": 2018,
+                "src": "https://cdn.shopify.com/s/files/1/1367/5207/products/StudioLeggingsBlack-B2A9Y-BBBB.D2.jpg?v=1656926471",
+                "variant_ids": []
+            },
+            {
+                "id": 28788631699527,
+                "product_id": 6672899047495,
+                "position": 7,
+                "created_at": "2022-07-04T10:21:09+01:00",
+                "updated_at": "2022-07-04T10:21:11+01:00",
+                "alt": null,
+                "width": 1692,
+                "height": 2018,
+                "src": "https://cdn.shopify.com/s/files/1/1367/5207/products/StudioLeggingsBlack-B2A9Y-BBBB.D3.jpg?v=1656926471",
+                "variant_ids": []
+            }
+        ],
+        "image": {
+            "id": 28788631240775,
+            "product_id": 6672899047495,
+            "position": 1,
+            "created_at": "2022-07-04T10:21:09+01:00",
+            "updated_at": "2022-07-04T10:21:10+01:00",
+            "alt": null,
+            "width": 1692,
+            "height": 2018,
+            "src": "https://cdn.shopify.com/s/files/1/1367/5207/products/StudioLeggingsBlack-B2A9Y-BBBB.A.jpg?v=1656926470",
+            "variant_ids": []
+        }
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
 }
