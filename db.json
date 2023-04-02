@@ -1,119 +1,36 @@
 {
-    "product_handle": "gymshark-studio-leggings-black-ss22",
-    "product": {
-        "options": [
-            {
-                "id": 8578634383431,
-                "product_id": 6672899047495,
-                "name": "Size",
-                "position": 1,
-                "values": [
-                    "Extra Small",
-                    "Small",
-                    "Medium",
-                    "Large",
-                    "Extra Large",
-                    "Extra Extra Large"
-                ]
-            }
-        ],
-        "images": [
-            {
-                "id": 28788631240775,
-                "product_id": 6672899047495,
-                "position": 1,
-                "created_at": "2022-07-04T10:21:09+01:00",
-                "updated_at": "2022-07-04T10:21:10+01:00",
-                "alt": null,
-                "width": 1692,
-                "height": 2018,
-                "src": "https://cdn.shopify.com/s/files/1/1367/5207/products/StudioLeggingsBlack-B2A9Y-BBBB.A.jpg?v=1656926470",
-                "variant_ids": []
-            },
-            {
-                "id": 28788631732295,
-                "product_id": 6672899047495,
-                "position": 2,
-                "created_at": "2022-07-04T10:21:09+01:00",
-                "updated_at": "2022-07-04T10:21:12+01:00",
-                "alt": null,
-                "width": 1692,
-                "height": 2018,
-                "src": "https://cdn.shopify.com/s/files/1/1367/5207/products/StudioLeggingsBlack-B2A9Y-BBBB.B.jpg?v=1656926472",
-                "variant_ids": []
-            },
-            {
-                "id": 28788631339079,
-                "product_id": 6672899047495,
-                "position": 3,
-                "created_at": "2022-07-04T10:21:09+01:00",
-                "updated_at": "2022-07-04T10:21:11+01:00",
-                "alt": null,
-                "width": 1692,
-                "height": 2018,
-                "src": "https://cdn.shopify.com/s/files/1/1367/5207/products/StudioLeggingsBlack-B2A9Y-BBBB.C.jpg?v=1656926471",
-                "variant_ids": []
-            },
-            {
-                "id": 28788631437383,
-                "product_id": 6672899047495,
-                "position": 4,
-                "created_at": "2022-07-04T10:21:09+01:00",
-                "updated_at": "2022-07-04T10:21:11+01:00",
-                "alt": null,
-                "width": 1692,
-                "height": 2018,
-                "src": "https://cdn.shopify.com/s/files/1/1367/5207/products/StudioLeggingsBlack-B2A9Y-BBBB.A1.jpg?v=1656926471",
-                "variant_ids": []
-            },
-            {
-                "id": 28788631535687,
-                "product_id": 6672899047495,
-                "position": 5,
-                "created_at": "2022-07-04T10:21:09+01:00",
-                "updated_at": "2022-07-04T10:21:11+01:00",
-                "alt": null,
-                "width": 1692,
-                "height": 2018,
-                "src": "https://cdn.shopify.com/s/files/1/1367/5207/products/StudioLeggingsBlack-B2A9Y-BBBB.D1.jpg?v=1656926471",
-                "variant_ids": []
-            },
-            {
-                "id": 28788631601223,
-                "product_id": 6672899047495,
-                "position": 6,
-                "created_at": "2022-07-04T10:21:09+01:00",
-                "updated_at": "2022-07-04T10:21:11+01:00",
-                "alt": null,
-                "width": 1692,
-                "height": 2018,
-                "src": "https://cdn.shopify.com/s/files/1/1367/5207/products/StudioLeggingsBlack-B2A9Y-BBBB.D2.jpg?v=1656926471",
-                "variant_ids": []
-            },
-            {
-                "id": 28788631699527,
-                "product_id": 6672899047495,
-                "position": 7,
-                "created_at": "2022-07-04T10:21:09+01:00",
-                "updated_at": "2022-07-04T10:21:11+01:00",
-                "alt": null,
-                "width": 1692,
-                "height": 2018,
-                "src": "https://cdn.shopify.com/s/files/1/1367/5207/products/StudioLeggingsBlack-B2A9Y-BBBB.D3.jpg?v=1656926471",
-                "variant_ids": []
-            }
-        ],
-        "image": {
-            "id": 28788631240775,
-            "product_id": 6672899047495,
-            "position": 1,
-            "created_at": "2022-07-04T10:21:09+01:00",
-            "updated_at": "2022-07-04T10:21:10+01:00",
-            "alt": null,
-            "width": 1692,
-            "height": 2018,
-            "src": "https://cdn.shopify.com/s/files/1/1367/5207/products/StudioLeggingsBlack-B2A9Y-BBBB.A.jpg?v=1656926470",
-            "variant_ids": []
-        }
-    }
-}
+    "Products":[
+             {
+             "id":1,
+              "title":"TITAN TALK S WITH 1.78 AMOLED DISPLAY",
+               "img":"https://staticimg.titan.co.in/Titan/Catalog/90165AP03_1.jpg?impolicy=pqmed&imwidth=640",
+               "price":3000,
+               "qty":1,
+               "description" : " Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor, quod! In, exercitationem soluta ipsam explicabo, quia delectus quisquam laboriosam, saepe aperiam non laborum? Ipsum labore doloribus expedita accusantium ullam tempore ad velit modi alias neque porro deleniti voluptas molestiae laborum eaque vero vitae illum est, minima nemo non. Consectetur, debitis."
+             },
+              {
+             "id":2,
+              "title":"Neo Splash Blue Dial Stainless Steel Strap Watch",
+               "img":"https://staticimg.titan.co.in/Titan/Catalog/1805QM01_1.jpg?impolicy=pqmed&imwidth=640",
+               "price":2999,
+               "qty":1,
+               "description": "   Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor, quod! In, exercitationem soluta ipsam explicabo, quia delectus quisquam laboriosam, saepe aperiam non laborum? Ipsum labore doloribus expedita accusantium ullam tempore ad velit modi alias neque porro deleniti voluptas molestiae laborum eaque vero vitae illum est, minima nemo non. Consectetur, debitis."
+             },
+              {
+             "id":3,
+              "title":"Automatic Watch with Silver White Dial & Brown Strap",
+               "img":"https://staticimg.titan.co.in/Titan/Catalog/90110QM01_1.jpg?impolicy=pqmed&imwidth=640",
+               "price":4999,
+               "qty":1,
+               "description": "   Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor, quod! In, exercitationem soluta ipsam explicabo, quia delectus quisquam laboriosam, saepe aperiam non laborum? Ipsum labore doloribus expedita accusantium ullam tempore ad velit modi alias neque porro deleniti voluptas molestiae laborum eaque vero vitae illum est, minima nemo non. Consectetur, debitis."
+             },
+              {
+             "id":4,
+              "title":"The King's Watch by Grandmaster",
+             "img":"https://staticimg.titan.co.in/Titan/Catalog/90145QL01_1.jpg?impolicy=pqmed&imwidth=640",
+               "price":1999,
+               "qty":1,
+               "description": "   Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor, quod! In, exercitationem soluta ipsam explicabo, quia delectus quisquam laboriosam, saepe aperiam non laborum? Ipsum labore doloribus expedita accusantium ullam tempore ad velit modi alias neque porro deleniti voluptas molestiae laborum eaque vero vitae illum est, minima nemo non. Consectetur, debitis."
+             } 
+            ]
+  }
