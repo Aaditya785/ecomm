@@ -6,6 +6,7 @@
                "img":"https://staticimg.titan.co.in/Titan/Catalog/90165AP03_1.jpg?impolicy=pqmed&imwidth=640",
                "price":3000,
                "qty":1,
+                 "rating": 4.2,
                "description" : " Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor, quod! In, exercitationem soluta ipsam explicabo, quia delectus quisquam laboriosam, saepe aperiam non laborum? Ipsum labore doloribus expedita accusantium ullam tempore ad velit modi alias neque porro deleniti voluptas molestiae laborum eaque vero vitae illum est, minima nemo non. Consectetur, debitis."
              },
               {
@@ -14,6 +15,7 @@
                "img":"https://staticimg.titan.co.in/Titan/Catalog/1805QM01_1.jpg?impolicy=pqmed&imwidth=640",
                "price":2999,
                "qty":1,
+                  "rating": 4.3,
                "description": "   Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor, quod! In, exercitationem soluta ipsam explicabo, quia delectus quisquam laboriosam, saepe aperiam non laborum? Ipsum labore doloribus expedita accusantium ullam tempore ad velit modi alias neque porro deleniti voluptas molestiae laborum eaque vero vitae illum est, minima nemo non. Consectetur, debitis."
              },
               {
@@ -22,6 +24,7 @@
                "img":"https://staticimg.titan.co.in/Titan/Catalog/90110QM01_1.jpg?impolicy=pqmed&imwidth=640",
                "price":4999,
                "qty":1,
+                  "rating": 4.8,
                "description": "   Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor, quod! In, exercitationem soluta ipsam explicabo, quia delectus quisquam laboriosam, saepe aperiam non laborum? Ipsum labore doloribus expedita accusantium ullam tempore ad velit modi alias neque porro deleniti voluptas molestiae laborum eaque vero vitae illum est, minima nemo non. Consectetur, debitis."
              },
               {
@@ -30,6 +33,7 @@
              "img":"https://staticimg.titan.co.in/Titan/Catalog/90145QL01_1.jpg?impolicy=pqmed&imwidth=640",
                "price":1999,
                "qty":1,
+                  "rating": 4.1,
                "description": "   Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor, quod! In, exercitationem soluta ipsam explicabo, quia delectus quisquam laboriosam, saepe aperiam non laborum? Ipsum labore doloribus expedita accusantium ullam tempore ad velit modi alias neque porro deleniti voluptas molestiae laborum eaque vero vitae illum est, minima nemo non. Consectetur, debitis."
              } 
             ]
