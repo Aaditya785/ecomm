@@ -1,5 +1,42 @@
 {
   "Products": [
+   
+    {
+      "id": 5,
+      "title": "BLACK DIAL BLACK STAINLESS STEEL STRAP WATCH",
+      "img": "https://staticimg.titan.co.in/Fastrack/Catalog/3147KM01_1.jpg?impolicy=pqmed&imwidth=640",
+      "price": "3515",
+      "qty": 1,
+      "rating": 4.1,
+      "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor, quod! In, exercitationem soluta ipsam explicabo, quia delectus quisquam laboriosam, saepe aperiam non laborum? Ipsum labore doloribus expedita accusantium ullam tempore ad velit modi alias neque porro deleniti voluptas molestiae laborum eaque vero vitae illum est, minima nemo non. Consectetur, debitis."
+    },
+    {
+      "id": 6,
+      "title": "FASTRACK REFLEX NITRO LARGE 1.8 ULTRAVU DISPLAY",
+      "img": "https://staticimg.titan.co.in/Fastrack/Catalog/38085PP02_1.jpg?impolicy=pqmed&imwidth=640",
+      "price": "3999",
+      "qty": 1,
+      "rating": 4.3,
+      "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor, quod! In, exercitationem soluta ipsam explicabo, quia delectus quisquam laboriosam, saepe aperiam non laborum? Ipsum labore doloribus expedita accusantium ullam tempore ad velit modi alias neque porro deleniti voluptas molestiae laborum eaque vero vitae illum est, minima nemo non. Consectetur, debitis."
+    },
+    {
+      "id": 7,
+      "title": "NEW FASTRACK REFLEX VOX 2.0|BT CALLING",
+      "img": "https://staticimg.titan.co.in/Fastrack/Catalog/38080PP01_1.jpg?impolicy=pqmed&imwidth=640",
+      "price": "4995",
+      "qty": 1,
+      "rating": 4.4,
+      "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor, quod! In, exercitationem soluta ipsam explicabo, quia delectus quisquam laboriosam, saepe aperiam non laborum? Ipsum labore doloribus expedita accusantium ullam tempore ad velit modi alias neque porro deleniti voluptas molestiae laborum eaque vero vitae illum est, minima nemo non. Consectetur, debitis."
+    },
+    {
+      "id": 8,
+      "title": "ALL NIGHTERS BLACK DIAL LEATHER STRAP WATCH",
+      "img": "https://staticimg.titan.co.in/Fastrack/Catalog/3165NL01_1.jpg?impolicy=pqmed&imwidth=640",
+      "price": "4040",
+      "qty": 1,
+      "rating": 4.7,
+      "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor, quod! In, exercitationem soluta ipsam explicabo, quia delectus quisquam laboriosam, saepe aperiam non laborum? Ipsum labore doloribus expedita accusantium ullam tempore ad velit modi alias neque porro deleniti voluptas molestiae laborum eaque vero vitae illum est, minima nemo non. Consectetur, debitis."
+    },
     {
       "id": 1,
       "title": "TITAN TALK S WITH 1.78 AMOLED DISPLAY",
