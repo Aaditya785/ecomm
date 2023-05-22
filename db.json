@@ -8,6 +8,7 @@
       "price": "3515",
       "qty": 1,
       "rating": 4.1,
+      "category": "titan",
       "added": false,
       "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor, quod! In, exercitationem soluta ipsam explicabo, quia delectus quisquam laboriosam, saepe aperiam non laborum? Ipsum labore doloribus expedita accusantium ullam tempore ad velit modi alias neque porro deleniti voluptas molestiae laborum eaque vero vitae illum est, minima nemo non. Consectetur, debitis."
     },
@@ -18,6 +19,7 @@
       "price": "3999",
       "qty": 1,
       "rating": 4.3,
+      "category": "titan",
       "added": false,
       "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor, quod! In, exercitationem soluta ipsam explicabo, quia delectus quisquam laboriosam, saepe aperiam non laborum? Ipsum labore doloribus expedita accusantium ullam tempore ad velit modi alias neque porro deleniti voluptas molestiae laborum eaque vero vitae illum est, minima nemo non. Consectetur, debitis."
     },
@@ -28,6 +30,7 @@
       "price": "4995",
       "qty": 1,
       "rating": 4.4,
+      "category": "titan",
       "added": false,
       "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor, quod! In, exercitationem soluta ipsam explicabo, quia delectus quisquam laboriosam, saepe aperiam non laborum? Ipsum labore doloribus expedita accusantium ullam tempore ad velit modi alias neque porro deleniti voluptas molestiae laborum eaque vero vitae illum est, minima nemo non. Consectetur, debitis."
     },
@@ -38,6 +41,7 @@
       "price": "4040",
       "qty": 1,
       "rating": 4.7,
+      "category": "titan",
       "added": false,
       "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor, quod! In, exercitationem soluta ipsam explicabo, quia delectus quisquam laboriosam, saepe aperiam non laborum? Ipsum labore doloribus expedita accusantium ullam tempore ad velit modi alias neque porro deleniti voluptas molestiae laborum eaque vero vitae illum est, minima nemo non. Consectetur, debitis."
     },
@@ -48,6 +52,7 @@
       "price": "8995",
       "qty": 1,
       "rating": 4.2,
+      "category": "lorem",
       "added": false,
       "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor, quod! In, exercitationem soluta ipsam explicabo, quia delectus quisquam laboriosam, saepe aperiam non laborum? Ipsum labore doloribus expedita accusantium ullam tempore ad velit modi alias neque porro deleniti voluptas molestiae laborum eaque vero vitae illum est, minima nemo non. Consectetur, debitis."
     },
@@ -58,6 +63,7 @@
       "price": "5795",
       "qty": 1,
       "rating": 4.3,
+      "category": "lorem",
       "added": false,
       "description": "   Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor, quod! In, exercitationem soluta ipsam explicabo, quia delectus quisquam laboriosam, saepe aperiam non laborum? Ipsum labore doloribus expedita accusantium ullam tempore ad velit modi alias neque porro deleniti voluptas molestiae laborum eaque vero vitae illum est, minima nemo non. Consectetur, debitis."
     },
@@ -68,6 +74,7 @@
       "price": "11999",
       "qty": 1,
       "rating": 4.1,
+      "category": "lorem",
       "added": false,
       "description": "   Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor, quod! In, exercitationem soluta ipsam explicabo, quia delectus quisquam laboriosam, saepe aperiam non laborum? Ipsum labore doloribus expedita accusantium ullam tempore ad velit modi alias neque porro deleniti voluptas molestiae laborum eaque vero vitae illum est, minima nemo non. Consectetur, debitis."
     },
@@ -79,6 +86,7 @@
       "qty": 1,
       "rating": 4.8,
       "added": false,
+      "category": "lorem",
       "description": "   Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor, quod! In, exercitationem soluta ipsam explicabo, quia delectus quisquam laboriosam, saepe aperiam non laborum? Ipsum labore doloribus expedita accusantium ullam tempore ad velit modi alias neque porro deleniti voluptas molestiae laborum eaque vero vitae illum est, minima nemo non. Consectetur, debitis."
     }
   ]
